@@ -1,0 +1,56 @@
+                           Getting Started with HTML Assignment
+
+
+
+Ques:1 Write a simple programe in HTML that displays the heading "HTML define the content and struture of your websites"on the browser?
+
+Ans:         <html>
+             <head>
+             <title>html assignment</title>
+             </head>
+             <body><h1>HTML defines the content and structure of your website</h1>
+             </body>
+             </html>
+
+
+Ques:2 Explain the purpose of comments in HTML and provide an examples of how to use comments in HTML document?
+
+Ans:  We use comment tags in html so thst we could know and understand about HTML code.
+       Example:-
+          <html>
+          <head>
+          <title>html assignment</title>
+          </head>
+          <body>
+          <--<p>HTML Assignment Test</p>-->
+          <p>HTML defines the content and struture of tour website</p>
+          </body>
+          </html>
+ 
+Ques:3 Write an HTML programme that include a heading, a paragraph of text, a horizontal line, a line break. Arrange thease element to create a simple web page layout?
+
+Ans:  
+           <html>
+           <body>
+           <title>HTML Assignment</title>
+           </head>
+           <body>
+           <h1>HTML ASSIGNMENT TEST</h1>
+           <p>HTML defines the content and structure of your website.<br>HTML definethe content and struture of your website.</p>
+           </body>
+           </html>
+
+Ques:4  Write a short note on a tagand element with an example?
+
+Ans:     Tag:- This is known as reserved word and keyword. Which is made to do special work.It is displayed by angular brackets(<>).
+                     <> - open tag
+                     </>- close tag
+                     Example: <p>,<br>,<h1>
+         Element:-Tag whatever content is between the start tag and close tag and ending tag. That statement are called element.
+                     Example: <i>This is italic tag</i>
+
+Ques:5  What is the DOCTYPE decelaration in HTML? 
+ Ans:   DOCTYPE HTML is a decelaration that tels the browser in which version of HTML the document is written.
+            
+
+
